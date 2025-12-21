@@ -16,21 +16,21 @@ nav_order: 6
 * Designed and delivered lectures, labs, assignments, and exams for the following core courses in avionics engineering.
 
 1. **AV 351 Modern Control Systems**
-  - I taught using state-space methods alongside hardware experiments.
-  - Students designed MATLAB controllers for inverted pendulums and cart-pole demonstrators, tuned them on real equipment.
+   - I taught using state-space methods alongside hardware experiments.
+   - Students designed MATLAB controllers for inverted pendulums and cart-pole demonstrators, tuned them on real equipment.
     
 2. **CS 201 Intro to Programming**
-  - redesigned the course from Fortran/C++ to Python, introduced open-ended programming projects and emphasized algorithmic thinking.
-  - Taught large class sizes.
-  - introduced end-to-end app projects as the capstone deliverable, so students experienced problem framing, testing, and user-facing documentation.
+   - redesigned the course from Fortran/C++ to Python, introduced open-ended programming projects and emphasized algorithmic thinking.
+   - Taught large class sizes.
+   - introduced end-to-end app projects as the capstone deliverable, so students experienced problem framing, testing, and user-facing documentation.
 
 3. **AV 101 DC Circuit Analysis**
-  - Breadboard labs with power supplies, resistors, capacitors, and standard instrumentation made Kirchhoff’s laws concrete
-  - Students were asked not only to compute but also to explain when measurements and predictions diverged and why.
+   - Breadboard labs with power supplies, resistors, capacitors, and standard instrumentation made Kirchhoff’s laws concrete
+   - Students were asked not only to compute but also to explain when measurements and predictions diverged and why.
 
 4. **IE 361 Computer-Aided Instrumentation**
-  - I rebuilt the course around hardware sensors, LabVIEW, and open-ended design.
-  - Students developed instrumented systems, such as small data-acquisition setups, and presented them in a department-wide showcase. 
+   - I rebuilt the course around hardware sensors, LabVIEW, and open-ended design.
+   - Students developed instrumented systems, such as small data-acquisition setups, and presented them in a department-wide showcase. 
 
 
 ---
