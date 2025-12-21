@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-05-22 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Successfully defended my Ph.D. thesis proposal, [Successive Certificates for Safe Autonomy]({{"/assets/pdf/Successive_Certificates-1.pdf" | relative_url}})! :sparkles: :smile:
