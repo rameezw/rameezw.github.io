@@ -44,6 +44,7 @@ nav_order: 6
     - Led weekly recitations focusing on problem-solving strategies
     - Developed new recitation materials, quizzes and exams to reflect standards based asessment.
     - Co-created the material with Prof. [Divya Vernerey](https://www.colorado.edu/cs/divya-vernerey) and catering to around 300 students each iteration.
+    - Some of my live teaching notes can be accessed [here](https://drive.google.com/file/d/1VJi3hquxz_v-bPqO5Xkz1I9KAOPdf28r/view?usp=sharing).
       
 2. **CSCI 4622 Machine Learning** - *Fall’23*
     - Supported a project-based course that introduced supervised and unsupervised learning, with implementation in Python.
@@ -62,6 +63,6 @@ nav_order: 6
 
 ## Live Teaching Notes
 
-https://drive.google.com/file/d/1VJi3hquxz_v-bPqO5Xkz1I9KAOPdf28r/view?usp=sharing
+<embed title="Algos live recitation notes" src="https://drive.google.com/file/d/1VJi3hquxz_v-bPqO5Xkz1I9KAOPdf28r/view?usp=sharing" width="100%" height="480" />
 
 
