@@ -14,15 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>ECCS 121</p>
+      <p>University of Colorado Boulder</p>
+      <p>Boulder, CO</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>ECCS 121</p>
+      <p>University of Colorado Boulder</p>
+      <p>Boulder, CO</p>
 ---
