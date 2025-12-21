@@ -57,3 +57,11 @@ nav_order: 6
 1. **CS 562 – Software Project Management** - *Winter’18*
 
 2. **CS 372 – Introduction to Computer Networks (eCampus)** - *Fall’18, Spring’19*
+
+---
+
+## Live Teaching Notes
+
+https://drive.google.com/file/d/1VJi3hquxz_v-bPqO5Xkz1I9KAOPdf28r/view?usp=sharing
+
+
