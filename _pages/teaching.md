@@ -50,7 +50,7 @@ nav_order: 6
     - Guided student teams on scoping final projects, understanding model evaluation, and interpreting results.
     - Helped design and grade assignments involving regression, classification, and basic deep learning.
     - Introduced short weekly modules linking theory to practice, framing an interview-style question and then unpacking it together, so students could see how course concepts show up in real technical conversations.
-    - The interview questions can be found at this [link]("https://docs.google.com/presentation/d/14lf8eJgyUE1dg4MfZpCQLnfuApWYUdigTaOLaHOuhgc/edit?usp=sharing").
+    - The interview questions can be found at this [link]("https://docs.google.com/presentation/d/14lf8eJgyUE1dg4MfZpCQLnfuApWYUdigTaOLaHOuhgc/edit?usp=sharing") .
 
 ### Oregon State University
 
