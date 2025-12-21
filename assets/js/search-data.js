@@ -97,8 +97,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-successfully-defended-my-ph-d-thesis-proposal-successive-certificates-for-safe-autonomy-sparkles-smile",
+          title: 'Successfully defended my Ph.D. thesis proposal, Successive Certificates for Safe Autonomy! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "news-organized-the-inaugural-cuplv-formal-methods-seminar-and-gave-a-talk-on-verifiaction-of-real-valued-programs",
           title: 'Organized the inaugural CUPLV Formal Methods Seminar and gave a talk on Verifiaction...',
