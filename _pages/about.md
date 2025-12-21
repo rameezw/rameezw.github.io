@@ -11,7 +11,6 @@ profile:
   more_info: >
       <p>ECCS 121</p>
       <p>University of Colorado Boulder</p>
-      <p>Boulder, CO</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
