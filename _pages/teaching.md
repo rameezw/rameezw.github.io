@@ -25,8 +25,8 @@ nav_order: 6
   - introduced end-to-end app projects as the capstone deliverable, so students experienced problem framing, testing, and user-facing documentation.
 
 3. **AV 101 DC Circuit Analysis**
-   - Breadboard labs with power supplies, resistors, capacitors, and standard instrumentation made Kirchhoff’s laws concrete
-   - Students were asked not only to compute but also to explain when measurements and predictions diverged and why.
+  - Breadboard labs with power supplies, resistors, capacitors, and standard instrumentation made Kirchhoff’s laws concrete
+  - Students were asked not only to compute but also to explain when measurements and predictions diverged and why.
 
 4. **IE 361 Computer-Aided Instrumentation**
   - I rebuilt the course around hardware sensors, LabVIEW, and open-ended design.
