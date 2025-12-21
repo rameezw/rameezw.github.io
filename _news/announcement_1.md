@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Organized the inaugural CUPLV Formal Methods Seminar and gave a talk on [Verifiaction of Real-valued Programs]({{"/assets/Verification_for_reals__slides_.pdf" | relative_url}}).
+Organized the inaugural CUPLV Formal Methods Seminar and gave a talk on [Verifiaction of Real-valued Programs]({{"/assets/pdf/Verification_for_reals__slides_.pdf" | relative_url}}).
