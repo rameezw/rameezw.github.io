@@ -92,12 +92,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-presented-our-hscc-paper-successive-control-barrier-functions-for-nonlinear-systems-at-cps-iot-week-held-in-irvine-ca-slides-here",
+          title: 'Presented our HSCC paper, “Successive Control Barrier Functions for Nonlinear Systems,” at CPS-IoT...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-successfully-defended-my-ph-d-thesis-proposal-successive-certificates-for-safe-autonomy-sparkles-smile",
+          section: "News",},{id: "news-successfully-defended-my-ph-d-thesis-proposal-successive-certificates-for-safe-autonomy-sparkles-smile",
           title: 'Successfully defended my Ph.D. thesis proposal, Successive Certificates for Safe Autonomy! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "news-organized-the-inaugural-cuplv-formal-methods-seminar-and-gave-a-talk-on-verifiaction-of-real-valued-programs",
