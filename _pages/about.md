@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Prof. [Sriram Sankaranarayan](https://home.cs.colorado.edu/~srirams/). My research sits at the intersection of control theory, formal methods, and autonomous systems, with a focus on designing tools that make safety guarantees for robots and cyber-physical systems explicit, auditable, and trustworthy. Broadly, I’m interested in how we can move beyond impressive demos toward systems that come with clear explanations of why they are safe.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before returning to graduate school, I spent several years teaching engineering courses, primarily in avionics and control, and working closely with students in lab-intensive, hands-on settings. That experience continues to shape how I think about both research and teaching. I care deeply about connecting theory to real systems, and about helping students build intuition, confidence, and practical skill alongside mathematical rigor.
