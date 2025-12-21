@@ -9,7 +9,7 @@ nav_order: 6
 
 ## Instructor
 
-# National University of Sciences and Technology (2014-17)
+### National University of Sciences and Technology (2014-17)
 
 * I was awarded the **Best Faculty Award 2015-2016**.
 * Participated in curriculum design and outcome-based education (OBE) efforts in preparation for accreditation and continuous program improvement
@@ -36,7 +36,7 @@ nav_order: 6
 ---
 ## Teaching Assistant
 
-# University of Colorado Boulder
+### University of Colorado Boulder
 
 * I was awarded the *Outstanding TA award (2023-2024)* and the *Best Mentor award (2022)* 
 
@@ -52,7 +52,7 @@ nav_order: 6
     - Introduced short weekly modules linking theory to practice, framing an interview-style question and then unpacking it together, so students could see how course concepts show up in real technical conversations.
     - The interview questions can be found at this [link]("https://docs.google.com/presentation/d/14lf8eJgyUE1dg4MfZpCQLnfuApWYUdigTaOLaHOuhgc/edit?usp=sharing").
 
-# Oregon State University
+### Oregon State University
 
 1. **CS 562 – Software Project Management** - *Winter’18*
 
