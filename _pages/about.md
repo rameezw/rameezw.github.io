@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Prof. [Sriram Sankaranarayan](https://home.cs.colorado.edu/~srirams/). My research brings together control theory, formal methods, and autonomous systems, with the goal of making safety guarantees for robots and cyber-physical systems clear, explainable, and trustworthy.
+I’m a Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Prof. [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/). My research brings together control theory, formal methods, and autonomous systems, with the goal of making safety guarantees for robots and cyber-physical systems clear, explainable, and trustworthy.
 
 Before returning to graduate school, I spent several years teaching engineering courses in avionics and control, working closely with students in hands-on, lab-based settings. I care deeply about connecting abstract ideas to real systems and helping students build confidence alongside technical rigor. 
 
