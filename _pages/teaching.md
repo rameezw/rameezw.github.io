@@ -63,6 +63,6 @@ nav_order: 6
 
 ## Live Teaching Notes
 
-<embed title="Algos live recitation notes" src="https://drive.google.com/file/d/1VJi3hquxz_v-bPqO5Xkz1I9KAOPdf28r/view?usp=sharing" width="100%" height="480" />
+<iframe src="https://drive.google.com/file/d/1VJi3hquxz_v-bPqO5Xkz1I9KAOPdf28r/preview" width="100%" height="480"></iframe>
 
 
