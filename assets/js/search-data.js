@@ -66,6 +66,9 @@ ninja.data = [{
           section: "News",},{id: "news-organized-the-inaugural-cuplv-formal-methods-seminar-and-gave-a-talk-on-verifiaction-of-real-valued-programs",
           title: 'Organized the inaugural CUPLV Formal Methods Seminar and gave a talk on Verifiaction...',
           description: "",
+          section: "News",},{id: "news-presented-a-poster-at-the-cu-annual-research-expo-titled-sos-certificate-repair-via-dsos-and-rational-lp",
+          title: 'Presented a poster at the CU annual research expo titled SOS Certificate Repair...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
