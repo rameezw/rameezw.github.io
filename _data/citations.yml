@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-23'
 papers:
   CaBt90QAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -7,7 +7,7 @@ papers:
     year: '2016'
   CaBt90QAAAAJ:W7OEmFMy1HYC:
     citations: 3
-    title: Successive Control Barrier Functions for Nonlinear Systems
+    title: Successive control barrier functions for nonlinear systems
     year: '2025'
   CaBt90QAAAAJ:Y0pCki6q_DkC:
     citations: 15
@@ -19,7 +19,7 @@ papers:
     year: '2014'
   CaBt90QAAAAJ:qjMakFHDy7sC:
     citations: 2
-    title: 'Hybrid assisted regenerative turbofan engine: A case study for xwb-84 modification'
+    title: 'Hybrid assisted regenerative turbofan engine: A case study for XWB-84 modification'
     year: '2019'
   CaBt90QAAAAJ:u-x6o8ySG0sC:
     citations: 14
