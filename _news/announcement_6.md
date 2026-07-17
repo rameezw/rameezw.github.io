@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-06-29 17:59:00-0400
+date: 2026-06-29 17:59:00-0400
 inline: true
 related_posts: false
 ---
