@@ -69,6 +69,9 @@ ninja.data = [{
           section: "News",},{id: "news-presented-a-poster-at-the-cu-annual-research-expo-titled-sos-certificate-repair-via-dsos-and-rational-lp",
           title: 'Presented a poster at the CU annual research expo titled SOS Certificate Repair...',
           description: "",
+          section: "News",},{id: "news-our-work-titled-control-barrier-functions-for-moving-obstacles-via-translational-symmetry-accepted-as-a-regular-paper-at-ieee-cdc-2026",
+          title: 'Our work titled “Control Barrier Functions for Moving Obstacles via Translational Symmetry” accepted...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
