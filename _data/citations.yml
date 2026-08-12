@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-08-12'
 papers:
   CaBt90QAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -10,19 +10,19 @@ papers:
     title: Successive control barrier functions for nonlinear systems
     year: '2025'
   CaBt90QAAAAJ:Y0pCki6q_DkC:
-    citations: 15
+    citations: 17
     title: Formal synthesis of safety controllers for unknown stochastic control systems using Gaussian process learning
     year: '2022'
   CaBt90QAAAAJ:d1gkVwhDpl0C:
-    citations: 13
+    citations: 12
     title: A human perception based performance evaluation of image quality metrics
     year: '2014'
   CaBt90QAAAAJ:qjMakFHDy7sC:
-    citations: 2
+    citations: 3
     title: 'Hybrid assisted regenerative turbofan engine: A case study for XWB-84 modification'
     year: '2019'
   CaBt90QAAAAJ:u-x6o8ySG0sC:
-    citations: 14
+    citations: 12
     title: Classifier performance evaluation for offline signature verification using local binary patterns
     year: '2013'
   CaBt90QAAAAJ:u5HHmVD_uO8C:
