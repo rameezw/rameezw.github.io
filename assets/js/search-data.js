@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research",
+          title: "research",
+          description: "Certificates that prove autonomous systems safe, and proofs a computer can check.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -75,7 +82,27 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-titled-control-barrier-functions-for-moving-obstacles-via-translational-symmetry-accepted-as-a-regular-paper-at-ieee-cdc-2026",
           title: 'Our work titled “Control Barrier Functions for Moving Obstacles via Translational Symmetry” accepted...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-exact-sos-certificates",
+          title: 'Exact SOS certificates',
+          description: "Repairing floating-point SOS solutions into exact certificates a proof assistant can check.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/exact-certificates/";
+            },},{id: "projects-repulsive-barriers",
+          title: 'Repulsive barriers',
+          description: "One certificate, synthesized in the obstacle&#39;s frame, reused wherever the obstacle goes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/repulsive-barriers/";
+            },},{id: "projects-successive-barriers",
+          title: 'Successive barriers',
+          description: "Stacking barrier certificates, level by level, to certify far more of the state space.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/successive-barriers/";
+            },},{id: "projects-successive-clfs",
+          title: 'Successive CLFs',
+          description: "Chaining control Lyapunov functions to reach a goal through clutter.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/successive-clfs/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
