@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Instructor of record for four engineering courses, and teaching assistant for algorithms, machine learning and computer science courses.
 nav: true
 nav_order: 6
 ---
@@ -15,7 +14,7 @@ I teach by connecting abstract ideas to systems students can touch: controllers 
 
 ---
 
-## Instructor of record
+## Lecturer
 
 ### National University of Sciences and Technology (NUST), 2014–2017
 
