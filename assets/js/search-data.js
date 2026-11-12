@@ -31,8 +31,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
-          description: "",
+          title: "teaching",
+          description: "Instructor of record for four engineering courses, and teaching assistant for algorithms, machine learning and computer science courses.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
