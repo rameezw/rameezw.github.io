@@ -2,5 +2,9 @@
 layout: default
 full_width: true
 ---
-
-<embed src="{{ '/assets/pdf/cv_rameez_wajid_research-5.pdf' | relative_url }}" type="application/pdf" width="100%" height="1000px" />
+{% assign cv_file = '/assets/pdf/cv_rameez_wajid_research-5.pdf' | relative_url %}
+<p class="mb-3">
+  <a href="{{ cv_file }}" class="btn btn-sm z-depth-0" role="button" download>Download CV (PDF)</a>
+  <a href="{{ cv_file }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Open in a new tab</a>
+</p>
+<embed src="{{ cv_file }}" type="application/pdf" width="100%" height="1000px">
