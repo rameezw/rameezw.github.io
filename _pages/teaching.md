@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-I teach by connecting abstract ideas to systems students can touch: controllers tuned on real pendulums, circuits measured on a breadboard, algorithms argued out loud in recitation. I want students to explain _why_ a result holds and what to do when a measurement disagrees with a prediction, not only to compute an answer. In large courses, I use standards-based assessment so that every student gets clear, repeated chances to show mastery.
+Most of my teaching has been in engineering and computer science courses where students learn best by building and testing things. At NUST, my control students tuned their own controllers on real pendulum rigs, and my circuits students compared their hand calculations with what they measured on a breadboard. When the two didn’t match, working out why was often the most useful part of the lab. At CU Boulder, I’ve helped run large algorithms courses that use standards-based grading, where students can retry a topic until they’ve learned it instead of being penalized for a first attempt.
 
 **Awards:** Best Faculty Award, NUST (2015–16); Outstanding TA Award, CU Boulder (2023–24); Best Mentor Award, CU Boulder (2022).
 
