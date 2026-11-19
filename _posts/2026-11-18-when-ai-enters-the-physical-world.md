@@ -229,7 +229,7 @@ My long-term goal is to contribute to an **assurance layer for Physical AI**: co
 
 The ultimate aspiration is not to make autonomous systems timid or incapable.
 
-It is to make them powerful enough to be useful—and reliable enough to be trusted.
+It is to make them powerful enough to be useful and reliable enough to be trusted.
 
 ---
 
