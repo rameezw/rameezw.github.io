@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When AI Enters the Physical World, Who Keeps It Safe?"
-date: 2026-11-18 20:35:00 -0700
+date: 2026-11-18 11:35:00 -0700
 description: "Building an assurance layer for intelligent machines through control certificates, runtime safety filters, and formal verification."
 tags: physical-ai safe-autonomy control-theory formal-methods
 categories: research
