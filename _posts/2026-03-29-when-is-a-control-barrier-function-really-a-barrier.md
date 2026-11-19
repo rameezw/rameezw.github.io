@@ -6,6 +6,8 @@ description: "Choosing a function that describes safety is not the same as provi
 tags: control-barrier-functions safe-autonomy formal-verification control-theory
 categories: research
 math: true
+toc:
+  beginning: true
 ---
 
 Suppose I want a robot to avoid an obstacle. I can write down a function that measures how close the robot is to danger, declare its nonnegative region to be safe, and feed that function into a controller.
