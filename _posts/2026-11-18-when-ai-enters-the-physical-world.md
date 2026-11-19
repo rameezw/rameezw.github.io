@@ -5,6 +5,9 @@ date: 2026-11-18 11:35:00 -0700
 description: "Building an assurance layer for intelligent machines through control certificates, runtime safety filters, and formal verification."
 tags: physical-ai safe-autonomy control-theory formal-methods
 categories: research
+thumbnail: assets/img/research/thumb-repulsive-barriers.jpg
+toc:
+  sidebar: left
 ---
 
 *Building an assurance layer for intelligent machines*
@@ -40,6 +43,16 @@ The AI controller might be trained using reinforcement learning, designed throug
 The safety mechanism has a different responsibility: to ensure that the system remains within acceptable operating conditions.
 
 This architecture is known as **runtime assurance**. A high-performance controller proposes an action, and a safety filter determines whether that action is permissible. If it is, the system proceeds normally. Otherwise, the filter modifies or replaces the action to preserve safety.
+
+<figure class="rs-figure" style="max-width: 560px; margin: 2rem auto">
+  <div class="rs-entry-visual rs-mini" data-demo="repulsiveBarriers">
+    <canvas role="img" aria-label="A car following a loop swerves around a moving obstacle when the safety layer steps in."></canvas>
+  </div>
+  <figcaption>
+    The second brake pedal in action: the car follows its loop (blue) until the safety layer steps in (red). Explore it on the
+    <a href="{{ '/projects/repulsive-barriers/' | relative_url }}">repulsive barriers page</a>.
+  </figcaption>
+</figure>
 
 Of course, there is a crucial difference between a human driving instructor and a computational safety monitor.
 
@@ -91,6 +104,16 @@ A relatively simple certificate may handle ordinary operating conditions, while 
 
 This has led to my work on successive control barrier functions for safety and successive control Lyapunov functions for reachability.
 
+<figure class="rs-figure" style="max-width: 420px; margin: 2rem auto">
+  <div class="rs-entry-visual rs-mini" data-demo="successiveBarriers">
+    <canvas role="img" aria-label="A car hands over between certificate levels until it settles on a safe circle."></canvas>
+  </div>
+  <figcaption>
+    Each colour is one certificate. The car hands down from level to level until it reaches one that keeps it safe forever.
+    <a href="{{ '/projects/successive-barriers/' | relative_url }}">Build the levels yourself</a>.
+  </figcaption>
+</figure>
+
 An important question then emerges: when should the system switch from one certificate to another?
 
 And more importantly, what happens between two consecutive safety checks?
@@ -122,6 +145,19 @@ This motivates another direction of my work: **proof-producing computation**.
 The idea is to separate the process of discovering a certificate from the process of verifying it.
 
 A sophisticated numerical solver might search for a candidate certificate, but the resulting evidence should be independently checkable, potentially using simpler mathematical procedures or formal proof systems.
+
+<figure class="rs-figure" style="max-width: 420px; margin: 2rem auto">
+  <div class="rs-entry-visual rs-mini" data-demo="exactCertificates">
+    <div class="rs-mini-repair">
+      <div class="rs-mx rs-mini-mx" data-role="matrix" aria-hidden="true"></div>
+      <div><span class="rs-verdict rs-verdict-pending" data-role="verdict">Floating point</span></div>
+    </div>
+  </div>
+  <figcaption>
+    A solver's matrix is rounded, repaired and checked exactly. Coarse rounding gets rejected; enough precision gets certified.
+    <a href="{{ '/projects/exact-certificates/' | relative_url }}">Run it step by step</a>.
+  </figcaption>
+</figure>
 
 This separation matters because the software responsible for discovering a solution need not itself become part of the trusted foundation.
 
@@ -234,3 +270,17 @@ It is to make them powerful enough to be useful and reliable enough to be truste
 ---
 
 *My research focuses on safe autonomous systems, control barrier and Lyapunov functions, formal verification, numerical optimization, and runtime assurance. I am particularly interested in connecting mathematical safety guarantees with the emerging capabilities of learning-enabled physical systems. See my [publications]({{ '/publications/' | relative_url }}) for more technical details.*
+
+<link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
+<script defer src="{{ '/assets/js/research/common.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/research/successive-barriers.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/research/repulsive-barriers.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/research/exact-certificates.js' | relative_url }}"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".rs-mini[data-demo]").forEach(function (el) {
+      var mount = window.Research && window.Research[el.dataset.demo];
+      if (mount) mount(el, { mini: true });
+    });
+  });
+</script>
