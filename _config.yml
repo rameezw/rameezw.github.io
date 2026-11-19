@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Irtiqa # blog_name will be displayed in your blog page
-blog_description: A personal journal exploring artificial intelligence, mathematics, autonomous systems, and the evolution of ideas.
+blog_description: Irtiqa (ارتقا) means evoluation & progress. Notes on safe autonomy, verification and teaching.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
