@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/when-ai-enters-the-physical-world/";
           
         },
+      },{id: "post-when-is-a-control-barrier-function-really-a-barrier",
+        
+          title: "When Is a Control Barrier Function Really a Barrier?",
+        
+        description: "Choosing a function that describes safety is not the same as proving that a system can remain safe. A closer look at barrier synthesis, CBF-QPs, and feasibility.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/when-is-a-control-barrier-function-really-a-barrier/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
