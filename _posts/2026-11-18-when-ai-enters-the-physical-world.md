@@ -7,10 +7,8 @@ tags: physical-ai safe-autonomy control-theory formal-methods
 categories: research
 thumbnail: assets/img/research/thumb-repulsive-barriers.jpg
 toc:
-  sidebar: left
+  beginning: true
 ---
-
-*Building an assurance layer for intelligent machines*
 
 Artificial intelligence is moving beyond our screens and into the physical world.
 
