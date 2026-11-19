@@ -12,15 +12,15 @@ Suppose I want a robot to avoid an obstacle. I can write down a function that me
 
 But have I actually **proved that the robot can stay safe**?
 
-This is a distinction that gets blurred in discussions of **control barrier functions (CBFs)**. A significant body of work is devoted to *synthesizing* functions that come with a safety argument. Another influential approach starts from a *chosen* function—often one suggested by geometry—and asks an online controller to enforce an inequality involving it.
+This is a distinction that gets blurred in discussions of **control barrier functions (CBFs)**. A significant body of work is devoted to *synthesizing* functions that come with a safety argument. Another influential approach starts from a *chosen* function, often one suggested by geometry, and asks an online controller to enforce an inequality involving it.
 
 Both approaches have rigorous mathematical foundations. But **choosing a function that describes a safety constraint is not the same as establishing that the constraint can be enforced**.
 
-That gap is worth examining.
+Let's examine that gap.
 
 ## A safe set is a specification, not yet a guarantee
 
-Consider a control-affine dynamical system:
+Consider a nonlinear control-affine dynamical system:
 
 $$
 \dot{x} = f(x) + g(x)u, \qquad u\in\mathcal U,
