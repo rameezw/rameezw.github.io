@@ -37,7 +37,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "post-when-ai-enters-the-physical-world-who-keeps-it-safe",
+        
+          title: "When AI Enters the Physical World, Who Keeps It Safe?",
+        
+        description: "Building an assurance layer for intelligent machines through control certificates, runtime safety filters, and formal verification.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/when-ai-enters-the-physical-world/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
